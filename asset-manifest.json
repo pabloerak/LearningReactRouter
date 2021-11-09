@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/LearningReactRouter/static/js/main.ec273a00.chunk.js",
+    "main.js.map": "/LearningReactRouter/static/js/main.ec273a00.chunk.js.map",
+    "runtime-main.js": "/LearningReactRouter/static/js/runtime-main.17252be5.js",
+    "runtime-main.js.map": "/LearningReactRouter/static/js/runtime-main.17252be5.js.map",
+    "static/js/2.099c5943.chunk.js": "/LearningReactRouter/static/js/2.099c5943.chunk.js",
+    "static/js/2.099c5943.chunk.js.map": "/LearningReactRouter/static/js/2.099c5943.chunk.js.map",
+    "static/js/3.58a8df41.chunk.js": "/LearningReactRouter/static/js/3.58a8df41.chunk.js",
+    "static/js/3.58a8df41.chunk.js.map": "/LearningReactRouter/static/js/3.58a8df41.chunk.js.map",
+    "index.html": "/LearningReactRouter/index.html",
+    "static/js/2.099c5943.chunk.js.LICENSE.txt": "/LearningReactRouter/static/js/2.099c5943.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17252be5.js",
+    "static/js/2.099c5943.chunk.js",
+    "static/js/main.ec273a00.chunk.js"
+  ]
+}
